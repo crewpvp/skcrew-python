@@ -1,5 +1,5 @@
 # Skcrew-python
-This API allow you to make async web requests to Skcrew Web API \
+This API allow you to make async web requests to Skcrew Web API
 
 Example of usage:
 ```py
