@@ -3,8 +3,7 @@ This API allow you to make async web requests to Skcrew Web API
 
 Example of usage:
 ```py
-from skcrew import api
-from skcrew.datatypes import Signal
+from skcrew import api, Signal
 import asyncio
 
 skcrewapi = api("localhost","admin","admin")
